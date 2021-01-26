@@ -61,8 +61,9 @@ Connect in [Bigmart Sales Api](https://bigmartsalesapi.herokuapp.com/) and use `
    - Supermarket Type 1
    - Supermarket Type 2
    - Supermarket Type 3
-      
+   
 **Response Data JSON with key ['predict'] or response['predict']**
+
 ---
 
 ## Screenshots
