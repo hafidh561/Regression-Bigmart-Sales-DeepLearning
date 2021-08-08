@@ -1,7 +1,6 @@
 # Regression Bigmart Sales DeepLearning
 
-Hello everyone, iam make machine learning to predict **Item Outlet Sales** for **Bigmart Sales DeepLearning**. Iam use `Python` and some library to make this machine learning. You can try this model in this website [Bigmart Sales](https://hafidh561.github.io/Regression-Bigmart-Sales-DeepLearning/). Iam deploy this model use `FLASK Restful-API` in `Heroku`.
-_Note: The response API took too long, be patient please_
+Hello everyone, iam make machine learning to predict **Item Outlet Sales** for **Bigmart Sales DeepLearning**. Iam use `Python` and some library to make this machine learning.
 
 ---
 
